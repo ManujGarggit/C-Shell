@@ -6,6 +6,8 @@
 
 > Roll No - 2021101047
 
+> To compile the shell run `make` command in the terminal where the Makefile is present and then execute `./a.out`  
+
 > FOR EXITING THE TERMINAL type "q" in the input or press ctrl+d 
 
 > The error message are displayed in plain white 
