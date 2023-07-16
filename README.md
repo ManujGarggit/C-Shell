@@ -1,6 +1,6 @@
 # OSN
 
-# ASSIGNMENT-3
+# ASSIGNMENT-2 and 3
 
 > Name - Manuj Garg
 
